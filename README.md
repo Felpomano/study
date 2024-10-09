@@ -22,7 +22,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação com **Python**
 ## 📫 Como me encontrar
 
 - **Email:** [felipeolkei13@gmail.com](mailto:felipeolkei13@gmail.com)
-- **LinkedIn:** [seulinkedin](https://www.linkedin.com/in/felipealexandre--)
-- **GitHub:** [seu-github](https://github.com/Felpomano)
+- **LinkedIn:** [Felipe Alexandre](https://www.linkedin.com/in/felipealexandre--)
+- **GitHub:** [Felpomano](https://github.com/Felpomano)
 
 Obrigado por visitar meu perfil! Estou ansioso para conectar e colaborar com você! 😊
